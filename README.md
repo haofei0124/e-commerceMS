@@ -1,10 +1,10 @@
 
 E-commerce MS core inculding  
 ----------  
-User side (display, shopping cart, order, payment, user)
-CMS side (item management, category management, order management, user management)  
+* User side (display, shopping cart, order, payment, user)  
+* CMS side (item management, category management, order management, user management)  
 
-technology stack and Component Library  
+Technology stack and Component Library  
 ---------  
 A simple e-commerce CMS system, UI reference bootstrap design
 In this project using React16 + React-Router4 + webpack3 + bootstrap + webpack+ SASS + JQuery and so on.  
